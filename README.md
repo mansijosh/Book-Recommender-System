@@ -7,9 +7,9 @@ The purpose of a recommendation system basically is to search for content that w
 # About this project:
 This is a streamlit web application that can recommend various kinds of similar books based on an user interest. here is a demo,
 
-![Image 1](image1.png)
+![Image 1](https://github.com/mansijosh/Book-Recommender-System/blob/master/Image%201.png)
 
-![Image 2](image2.png)
+![Image 2](https://github.com/mansijosh/Book-Recommender-System/blob/master/Image%202.png)
 
 
 ## Dataset has been used
